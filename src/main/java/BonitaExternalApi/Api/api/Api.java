@@ -1,6 +1,6 @@
 package BonitaExternalApi.Api.api;
 
-import BonitaExternalApi.Api.dto.KursPaymentRequestDTO;
+import BonitaExternalApi.Api.DTO.KursPaymentRequestDTO;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

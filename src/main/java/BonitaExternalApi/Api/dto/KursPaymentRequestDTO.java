@@ -1,4 +1,4 @@
-package BonitaExternalApi.Api.dto;
+package BonitaExternalApi.Api.DTO;
 
 public class KursPaymentRequestDTO {
     public String KonferencijaKursId;
